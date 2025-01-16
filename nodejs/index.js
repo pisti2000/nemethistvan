@@ -21,4 +21,10 @@ server.listen(port, hostname, () => {
  request:
  URL pl http://localhost:8080/<path>
  Method pl GET, POST, DELETE, Patch 
+
+ response:
+ HEADER
+ BODY
+ STATUS
+ 
 */
